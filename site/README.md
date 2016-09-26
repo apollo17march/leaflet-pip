@@ -17,3 +17,8 @@
     -start
     -stat
     -log
+
+###Example run:
+`fab seleniumHub start` </br>
+`fab luigi log` </br>
+`fab scrapeHub stat`
