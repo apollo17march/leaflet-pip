@@ -1,19 +1,19 @@
 ###Requirements
--fabric
--yaml
--json
+    -fabric
+    -yaml
+    -json
 
 
 ###Usages
-`fab -env -task`
+`fab [env] [task]`
  
-env options: 
- -luigi
- -seleniumHub
- -seleniumNode
- -scrapeHub
+####env options: 
+    -luigi
+    -seleniumHub
+    -seleniumNode
+    -scrapeHub
 
-task options:
- -start
- -stat
- -log
+####task options:
+    -start
+    -stat
+    -log
